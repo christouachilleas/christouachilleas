@@ -7,6 +7,7 @@ I am currently a student in Lyceum, I am interested in computer hardware, electr
 * Computer Architecture
 * Digital Logic and Hardware Design
 * Computer Engineering
+* Low Level Programming
 
 ## Achievements:
 ### Ideodromio 2026 - Cyprus
